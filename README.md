@@ -1,3 +1,5 @@
+![AWS Banner](https://www.shutterstock.com/image-photo/stuttgart-germany-10012022-mobile-phone-logo-2212311675)
+
 # Hi there! 👋 I'm Gourab
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for crafting efficient and scalable solutions. My expertise spans across multiple programming languages, frameworks, and technologies. Whether it's building robust back-end systems, developing engaging front-end experiences, or writing clean, testable code, I aim to deliver high-quality software that makes a difference.
